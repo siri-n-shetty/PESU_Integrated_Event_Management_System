@@ -8,3 +8,6 @@
 -  Tech Stack: React, Flask, Sqlite3.
 
 ![HomePage](/images/homepage.jpg)
+![event_registration](/images/event_registration.jpg)
+![admin_homepage](/images/admin_homepage.jpg)
+![event_handling](/images/event_handling.jpg)
