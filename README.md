@@ -6,3 +6,5 @@
 -  This system significantly reduces dependency on traditional tools like Google Forms, providing a streamlined, centralized solution for managing club activities and events.
 -  By integrating all clubs and events under a unified platform, the project enhances accessibility and transparency, making the process of applying to clubs and registering for events hassle-free for students.
 -  Tech Stack: React, Flask, Sqlite3.
+
+![HomePage](/images/homepage.jpg)
